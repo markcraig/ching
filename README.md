@@ -27,4 +27,4 @@ From the `README` uploaded on February 6, 2005:
 > oracle.cgi responds when you ask the Oracle.
 
 One day, CGI stopped working.
-This version is client-side only, with Ajax to get the oracle's answer.
+This version still goes back to the server to get the oracle's answer.
