@@ -1,7 +1,9 @@
 # ching
-Ask a question, get a hexagram with commentary
+Ask the Oracle; get a hexagram with commentary.
 
-This is a rewrite in JavaScript and Bootstrap of something I apparently wrote in early February 2005.
+This is a rewrite in JavaScript and Bootstrap of something I originally wrote using Perl.
+
+From the `README` uploaded on February 6, 2005:
 
 > Because I never have three coins to throw...
 > 
@@ -24,5 +26,5 @@ This is a rewrite in JavaScript and Bootstrap of something I apparently wrote in
 > the hexagram names.
 > 
 > oracle.cgi responds when you ask the Oracle.
-> 
-> 					--Mark
+
+One day, CGI stopped working, and that broke site, so this version is client-side only, with Ajax to get the oracle's answer.
