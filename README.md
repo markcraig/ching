@@ -1,7 +1,7 @@
 # ching
 Ask the Oracle; get a hexagram with commentary.
 
-This is a rewrite in JavaScript and Bootstrap of something I originally wrote using Perl.
+This is a rewrite in JavaScript and Bootstrap of something I originally wrote in Perl.
 From the `README` uploaded on February 6, 2005:
 
 > Because I never have three coins to throw...
